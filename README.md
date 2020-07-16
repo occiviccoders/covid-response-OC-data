@@ -1,5 +1,7 @@
 # [covid-response-OC](https://www.occiviccoders.com/covid-response-OC/)
-A dashboard to track the spread of the Corona Virus (COVID-19) in the local Orange County community. Let's work together to help prevent the spread of this disease! The dashboard includes daily trends by age group, gender, and travel verses community spread.
+A dashboard to track the spread of the Corona Virus (COVID-19) in the local Orange County community. Let's work together to help prevent the spread of this disease! The dashboard includes daily trends by age group, gender, and travel verses community spread.  
+
+This repo is to get and hold the backend data.
 
 ## Data Sources
 The [OC Covid 19 Community Watch](https://www.occiviccoders.com/covid-response-OC/) was made to help the local community monitor covid-19. Data provided by [OC Public Health Care Agency Dashboard](https://ochca.maps.arcgis.com/apps/opsdashboard/index.html#/cc4859c8c522496b9f21c451de2fedae) and [California Open Data Portal](https://data.ca.gov/dataset/covid-19-hospital-data).  
