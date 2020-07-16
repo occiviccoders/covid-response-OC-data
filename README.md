@@ -25,20 +25,8 @@ The [OC Covid 19 Community Watch](https://www.occiviccoders.com/covid-response-O
 
 ## Built With
 
-### Front End
-* [Bootstrap](https://getbootstrap.com/) - Front end framework
-* [jQuery](https://jquery.com/) - Needs no introduction
-* [chartjs](https://www.chartjs.org/) - Nice charts
-* [Mapbox](https://www.mapbox.com/) - For the map
-* [d3js](https://d3js.org/) - For the map pareto
-* [fontawesome](https://fontawesome.com/) - For the nice icons
-
-### Back End
-The backend has no real server.  Just me running scripts and pushing for now.
 * [Nodejs](https://nodejs.org/en/) - For scraping and running scripts
 * [Babel](https://babeljs.io/) - For compiling ES6 in node so that I can push/pull data from `assets/js/data.js`
-* [gulp](https://gulpjs.com/) - To minify and publish JS/CSS from the `src` folder to `public` folder.
-* [axios](https://github.com/axios/axios) - to make api calls.
 
 ## Authors
 
