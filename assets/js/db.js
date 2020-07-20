@@ -40813,7 +40813,7 @@ const cvoc = {
                 },
                 {
                     "city": "Silverado",
-                    "population": "2,154",
+                    "population": "Not Available",
                     "cases": "37"
                 },
                 {
