@@ -4,9 +4,7 @@ const fs = require('fs');
 const cvoc= require('./db.js');
 
 // Get data from these urls
-// City URL is broken data is here but locked: https://services2.arcgis.com/LORzk2hk9xzHouw9/ArcGIS/rest/services/VIEW_LAYER_citylayer_covid19_update070620/FeatureServer/0
-// http://www.arcgis.com/home/webmap/viewer.html?url=https://services2.arcgis.com/LORzk2hk9xzHouw9/ArcGIS/rest/services/VIEW_LAYER_citylayer_covid19_update070620/FeatureServer/0&source=sd
-// const cityUrl = "https://services2.arcgis.com/LORzk2hk9xzHouw9/ArcGIS/rest/services/VIEWLAYER_Dashboard_CityUpdate7220/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json";
+const cityUrl = "https://services2.arcgis.com/LORzk2hk9xzHouw9/ArcGIS/rest/services/VIEWLAYER_Orange_County_Cities_COVID19_Cases_with_Child_Age_Groups/FeatureServer/0/query?where=0=0&outFields=*&f=json";
 const caseUrl = "https://services2.arcgis.com/LORzk2hk9xzHouw9/ArcGIS/rest/services/occovid_democase_csv/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json";
 const deathUrl = "https://services2.arcgis.com/LORzk2hk9xzHouw9/ArcGIS/rest/services/occovid_demodth_csv/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json";
 const hospUrl = "https://data.ca.gov/api/3/action/datastore_search?resource_id=42d33765-20fd-44b8-a978-b083b7542225&q=Orange&sort=todays_date%20desc&limit=5";
@@ -213,7 +211,8 @@ const writeData = async () => {
     }
 
     // pull data from OC arcgis dashboard and parse
-    /*const cityResult = await axios.get(cityUrl);
+    /** USE THIS WHEN CITY URL IS WORKING (START) **/
+    const cityResult = await axios.get(cityUrl);
     const jsonLocation = cityResult.data.features.map(function(city){
         let population = city.attributes.Total_Pop;
         if(population){
@@ -236,11 +235,15 @@ const writeData = async () => {
             return 1;
         }
         return 0;
-    });*/
-    // get the last location, which we'll need to update manually.
-    let jsonLocation = newCvoc.counts.slice(-1)[0].location.filter(function(datum){
-        return datum.city !== "All of Orange County";
     });
+    /** USE THIS WHEN CITY URL IS WORKING (END) **/
+
+    /** USE THIS IF CITY URL STOPS WORKING (START) **/
+    // get the last location, which we'll need to update manually.  This is if the city url stops working...
+    /*let jsonLocation = newCvoc.counts.slice(-1)[0].location.filter(function(datum){
+        return datum.city !== "All of Orange County";
+    });*/
+    /** USE THIS IF CITY URL STOPS WORKING (END) **/
 
     // add all of OC
     jsonLocation.push({
@@ -250,8 +253,13 @@ const writeData = async () => {
         "deaths": numToString(deathData.total_dth)
     })
 
-    // check for any new cities
-    /*jsonLocation.map(function(city){
+    /** USE THIS WHEN CITY URL IS WORKING (START) **/
+    const checkSum = newCvoc.counts.slice(-1)[0].location.find(function(datum){
+        return datum.city === "Santa Ana";
+    });
+
+    // check for any new cities or no data changes
+    jsonLocation.map(function(city){
         let checkData = newCvoc.cities.find(function(index){
             return index.city === city.city || city.city === "Other*" || city.city === "Unknown**";
         })
@@ -268,9 +276,18 @@ const writeData = async () => {
                     return 1
                 return 0 //default return value (no sorting)
             });
+            console.log('ALERT:  THERE ARE NEW CITIES')
+            console.log('ALERT:  THERE ARE NEW CITIES')
+            console.log('ALERT:  THERE ARE NEW CITIES')                        
             console.log(city.city)
         }
-    })*/
+        if(checkSum.city === city.city && checkSum.cases === city.cases){
+            console.log('ALERT:  DOUBLE CHECK YOUR DATA!!!  IT APPEARS THERE ARE NO UPDATES FOR SANTA ANA....') 
+            console.log('ALERT:  DOUBLE CHECK YOUR DATA!!!  IT APPEARS THERE ARE NO UPDATES FOR SANTA ANA....') 
+            console.log('ALERT:  DOUBLE CHECK YOUR DATA!!!  IT APPEARS THERE ARE NO UPDATES FOR SANTA ANA....')                         
+        }
+    })
+    /** USE THIS WHEN CITY URL IS WORKING (END) **/
 
     // add the latest data
     newCvoc.counts.push({
