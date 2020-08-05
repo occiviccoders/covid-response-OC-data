@@ -46390,12 +46390,12 @@ const cvoc = {
                 {
                     "category": "Currently",
                     "type": "Hospitalized",
-                    "count": 555
+                    "count": 539
                 },
                 {
                     "category": "Currently",
                     "type": "ICU",
-                    "count": 175
+                    "count": 167
                 },
                 {
                     "category": "Male",
