@@ -36696,7 +36696,7 @@ const cvoc = {
                 {
                     "city": "Lake Forest",
                     "population": "86,346",
-                    "cases": "210"
+                    "cases": "280"
                 },
                 {
                     "city": "Los Alamitos",
