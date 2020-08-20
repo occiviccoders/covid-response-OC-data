@@ -62,12 +62,12 @@ const writeData = async () => {
         {
             "category": "Currently",
             "type": "Hospitalized",
-            "count": hospData.hospitalized_covid_confirmed_patients,
+            "count": 0 //hospData.hospitalized_covid_confirmed_patients,
         },
         {
             "category": "Currently",
             "type": "ICU",
-            "count": hospData.icu_covid_confirmed_patients,
+            "count": 0//hospData.icu_covid_confirmed_patients,
         },
         {
             "category": "Male",
