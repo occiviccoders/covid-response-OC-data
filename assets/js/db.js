@@ -74873,7 +74873,7 @@ const cvoc = {
                 {
                     "city": "Anaheim",
                     "population": "359,339",
-                    "cases": "9,882"
+                    "cases": "9,822"
                 },
                 {
                     "city": "Brea",
