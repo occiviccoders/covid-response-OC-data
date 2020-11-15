@@ -83911,7 +83911,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 15",
+            "label": "Nov 14",
             "data": [
                 {
                     "category": "Total Cases",
