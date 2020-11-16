@@ -84143,7 +84143,7 @@ const cvoc = {
                 {
                     "city": "Ladera Ranch",
                     "population": "30,288",
-                    "cases": "207"
+                    "cases": "205"
                 },
                 {
                     "city": "Laguna Beach",
