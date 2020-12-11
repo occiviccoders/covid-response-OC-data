@@ -93477,6 +93477,374 @@ const cvoc = {
                     "deaths": "1,633"
                 }
             ]
+        },
+        {
+            "label": "Dec 10",
+            "data": [
+                {
+                    "category": "Total Cases",
+                    "type": "Cases",
+                    "count": 94647
+                },
+                {
+                    "category": "Total Cases",
+                    "type": "Deaths",
+                    "count": 1640
+                },
+                {
+                    "category": "Currently",
+                    "type": "Hospitalized",
+                    "count": 1025
+                },
+                {
+                    "category": "Currently",
+                    "type": "ICU",
+                    "count": 257
+                },
+                {
+                    "category": "Male",
+                    "type": "Cases",
+                    "count": 45056
+                },
+                {
+                    "category": "Male",
+                    "type": "Deaths",
+                    "count": 915
+                },
+                {
+                    "category": "Female",
+                    "type": "Cases",
+                    "count": 48464
+                },
+                {
+                    "category": "Female",
+                    "type": "Deaths",
+                    "count": 717
+                },
+                {
+                    "category": "Unknown",
+                    "type": "Cases",
+                    "count": 1115
+                },
+                {
+                    "category": "Unknown",
+                    "type": "Deaths",
+                    "count": 8
+                },
+                {
+                    "category": "Other",
+                    "type": "Cases",
+                    "count": 12
+                },
+                {
+                    "category": "Other",
+                    "type": "Deaths",
+                    "count": 0
+                },
+                {
+                    "category": "<18",
+                    "type": "Cases",
+                    "count": 8238
+                },
+                {
+                    "category": "<18",
+                    "type": "Deaths",
+                    "count": 1
+                },
+                {
+                    "category": "18 - 24",
+                    "type": "Cases",
+                    "count": 13698
+                },
+                {
+                    "category": "18 - 24",
+                    "type": "Deaths",
+                    "count": 4
+                },
+                {
+                    "category": "25 - 34",
+                    "type": "Cases",
+                    "count": 19981
+                },
+                {
+                    "category": "25 - 34",
+                    "type": "Deaths",
+                    "count": 23
+                },
+                {
+                    "category": "35 - 44",
+                    "type": "Cases",
+                    "count": 14963
+                },
+                {
+                    "category": "35 - 44",
+                    "type": "Deaths",
+                    "count": 41
+                },
+                {
+                    "category": "45 - 54",
+                    "type": "Cases",
+                    "count": 15311
+                },
+                {
+                    "category": "45 - 54",
+                    "type": "Deaths",
+                    "count": 124
+                },
+                {
+                    "category": "55 - 64",
+                    "type": "Cases",
+                    "count": 11459
+                },
+                {
+                    "category": "55 - 64",
+                    "type": "Deaths",
+                    "count": 230
+                },
+                {
+                    "category": "65 - 74",
+                    "type": "Cases",
+                    "count": 5782
+                },
+                {
+                    "category": "65 - 74",
+                    "type": "Deaths",
+                    "count": 322
+                },
+                {
+                    "category": "75 - 84",
+                    "type": "Cases",
+                    "count": 2989
+                },
+                {
+                    "category": "75 - 84",
+                    "type": "Deaths",
+                    "count": 356
+                },
+                {
+                    "category": "≥ 85",
+                    "type": "Cases",
+                    "count": 2165
+                },
+                {
+                    "category": "≥ 85",
+                    "type": "Deaths",
+                    "count": 539
+                }
+            ],
+            "location": [
+                {
+                    "city": "Aliso Viejo",
+                    "population": "51,372",
+                    "cases": "752"
+                },
+                {
+                    "city": "Anaheim",
+                    "population": "359,339",
+                    "cases": "15,925"
+                },
+                {
+                    "city": "Brea",
+                    "population": "45,606",
+                    "cases": "1,008"
+                },
+                {
+                    "city": "Buena Park",
+                    "population": "83,384",
+                    "cases": "2,751"
+                },
+                {
+                    "city": "Costa Mesa",
+                    "population": "115,830",
+                    "cases": "3,159"
+                },
+                {
+                    "city": "Coto de Caza",
+                    "population": "14,931",
+                    "cases": "84"
+                },
+                {
+                    "city": "Cypress",
+                    "population": "49,833",
+                    "cases": "989"
+                },
+                {
+                    "city": "Dana Point",
+                    "population": "34,249",
+                    "cases": "525"
+                },
+                {
+                    "city": "Fountain Valley",
+                    "population": "56,652",
+                    "cases": "1,131"
+                },
+                {
+                    "city": "Fullerton",
+                    "population": "142,824",
+                    "cases": "4,533"
+                },
+                {
+                    "city": "Garden Grove",
+                    "population": "175,155",
+                    "cases": "5,684"
+                },
+                {
+                    "city": "Huntington Beach",
+                    "population": "203,761",
+                    "cases": "3,920"
+                },
+                {
+                    "city": "Irvine",
+                    "population": "280,202",
+                    "cases": "3,403"
+                },
+                {
+                    "city": "La Habra",
+                    "population": "63,542",
+                    "cases": "2,493"
+                },
+                {
+                    "city": "La Palma",
+                    "population": "15,820",
+                    "cases": "275"
+                },
+                {
+                    "city": "Ladera Ranch",
+                    "population": "30,288",
+                    "cases": "329"
+                },
+                {
+                    "city": "Laguna Beach",
+                    "population": "23,358",
+                    "cases": "369"
+                },
+                {
+                    "city": "Laguna Hills",
+                    "population": "31,572",
+                    "cases": "585"
+                },
+                {
+                    "city": "Laguna Niguel",
+                    "population": "66,748",
+                    "cases": "857"
+                },
+                {
+                    "city": "Laguna Woods",
+                    "population": "16,518",
+                    "cases": "127"
+                },
+                {
+                    "city": "Lake Forest",
+                    "population": "86,346",
+                    "cases": "1,479"
+                },
+                {
+                    "city": "Los Alamitos",
+                    "population": "11,721",
+                    "cases": "392"
+                },
+                {
+                    "city": "Midway City",
+                    "population": "8,374",
+                    "cases": "251"
+                },
+                {
+                    "city": "Mission Viejo",
+                    "population": "96,434",
+                    "cases": "1,587"
+                },
+                {
+                    "city": "Newport Beach",
+                    "population": "87,180",
+                    "cases": "1,654"
+                },
+                {
+                    "city": "Orange",
+                    "population": "141,691",
+                    "cases": "4,497"
+                },
+                {
+                    "city": "Placentia",
+                    "population": "52,333",
+                    "cases": "1,679"
+                },
+                {
+                    "city": "Rancho Mission Viejo",
+                    "population": "Not Available",
+                    "cases": "121"
+                },
+                {
+                    "city": "Rancho Santa Margarita",
+                    "population": "48,960",
+                    "cases": "613"
+                },
+                {
+                    "city": "Rossmoor",
+                    "population": "11,160",
+                    "cases": "79"
+                },
+                {
+                    "city": "San Clemente",
+                    "population": "65,405",
+                    "cases": "1,094"
+                },
+                {
+                    "city": "San Juan Capistrano",
+                    "population": "36,821",
+                    "cases": "1,025"
+                },
+                {
+                    "city": "Santa Ana",
+                    "population": "337,716",
+                    "cases": "18,452"
+                },
+                {
+                    "city": "Seal Beach",
+                    "population": "25,073",
+                    "cases": "443"
+                },
+                {
+                    "city": "Silverado",
+                    "population": "Not Available",
+                    "cases": "52"
+                },
+                {
+                    "city": "Stanton",
+                    "population": "39,307",
+                    "cases": "1,163"
+                },
+                {
+                    "city": "Trabuco Canyon",
+                    "population": "Not Available",
+                    "cases": "337"
+                },
+                {
+                    "city": "Tustin",
+                    "population": "81,369",
+                    "cases": "2,255"
+                },
+                {
+                    "city": "Villa Park",
+                    "population": "5,933",
+                    "cases": "108"
+                },
+                {
+                    "city": "Westminster",
+                    "population": "92,610",
+                    "cases": "2,231"
+                },
+                {
+                    "city": "Yorba Linda",
+                    "population": "68,706",
+                    "cases": "1,452"
+                },
+                {
+                    "city": "All of Orange County",
+                    "population": "3,222,498",
+                    "cases": "94,647",
+                    "deaths": "1,640"
+                }
+            ]
         }
     ]
 };
