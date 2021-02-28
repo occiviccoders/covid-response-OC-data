@@ -297,7 +297,7 @@ const cvoc = {
     ],
     "counts": [
         {
-            "label": "Mar 6, 2020",
+            "label": "Mar 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -362,7 +362,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 7, 2020",
+            "label": "Mar 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -427,7 +427,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 8, 2020",
+            "label": "Mar 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -492,87 +492,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 9, 2020",
-            "data": [
-                {
-                    "category": "Total Cases",
-                    "type": "Cases",
-                    "count": "5"
-                },
-                {
-                    "category": "Total Cases",
-                    "type": "Travel Related",
-                    "count": "4"
-                },
-                {
-                    "category": "Total Cases",
-                    "type": "Person to Person Spread*",
-                    "count": "1"
-                },
-                {
-                    "category": "Male",
-                    "type": "Cases",
-                    "count": "4"
-                },
-                {
-                    "category": "Male",
-                    "type": "Travel Related",
-                    "count": "3"
-                },
-                {
-                    "category": "Male",
-                    "type": "Person to Person Spread*",
-                    "count": "1"
-                },
-                {
-                    "category": "Female",
-                    "type": "Cases",
-                    "count": "1"
-                },
-                {
-                    "category": "Female",
-                    "type": "Travel Related",
-                    "count": "1"
-                },
-                {
-                    "category": "18 - 49",
-                    "type": "Cases",
-                    "count": "3"
-                },
-                {
-                    "category": "18 - 49",
-                    "type": "Travel Related",
-                    "count": "2"
-                },
-                {
-                    "category": "18 - 49",
-                    "type": "Person to Person Spread*",
-                    "count": "1"
-                },
-                {
-                    "category": "50 - 64",
-                    "type": "Cases",
-                    "count": "1"
-                },
-                {
-                    "category": "50 - 64",
-                    "type": "Travel Related",
-                    "count": "1"
-                },
-                {
-                    "category": "≥ 65",
-                    "type": "Cases",
-                    "count": "1"
-                },
-                {
-                    "category": "≥ 65",
-                    "type": "Travel Related",
-                    "count": "1"
-                }
-            ]
-        },
-        {
-            "label": "Mar 10, 2020",
+            "label": "Mar 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -652,7 +572,87 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 11, 2020",
+            "label": "Mar 10",
+            "data": [
+                {
+                    "category": "Total Cases",
+                    "type": "Cases",
+                    "count": "5"
+                },
+                {
+                    "category": "Total Cases",
+                    "type": "Travel Related",
+                    "count": "4"
+                },
+                {
+                    "category": "Total Cases",
+                    "type": "Person to Person Spread*",
+                    "count": "1"
+                },
+                {
+                    "category": "Male",
+                    "type": "Cases",
+                    "count": "4"
+                },
+                {
+                    "category": "Male",
+                    "type": "Travel Related",
+                    "count": "3"
+                },
+                {
+                    "category": "Male",
+                    "type": "Person to Person Spread*",
+                    "count": "1"
+                },
+                {
+                    "category": "Female",
+                    "type": "Cases",
+                    "count": "1"
+                },
+                {
+                    "category": "Female",
+                    "type": "Travel Related",
+                    "count": "1"
+                },
+                {
+                    "category": "18 - 49",
+                    "type": "Cases",
+                    "count": "3"
+                },
+                {
+                    "category": "18 - 49",
+                    "type": "Travel Related",
+                    "count": "2"
+                },
+                {
+                    "category": "18 - 49",
+                    "type": "Person to Person Spread*",
+                    "count": "1"
+                },
+                {
+                    "category": "50 - 64",
+                    "type": "Cases",
+                    "count": "1"
+                },
+                {
+                    "category": "50 - 64",
+                    "type": "Travel Related",
+                    "count": "1"
+                },
+                {
+                    "category": "≥ 65",
+                    "type": "Cases",
+                    "count": "1"
+                },
+                {
+                    "category": "≥ 65",
+                    "type": "Travel Related",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "label": "Mar 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -737,7 +737,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 12, 2020",
+            "label": "Mar 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -822,7 +822,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 13, 2020",
+            "label": "Mar 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -917,7 +917,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 14, 2020",
+            "label": "Mar 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -1012,7 +1012,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 15, 2020",
+            "label": "Mar 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -1117,7 +1117,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 16, 2020",
+            "label": "Mar 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -1242,7 +1242,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 17, 2020",
+            "label": "Mar 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -1367,7 +1367,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 18, 2020",
+            "label": "Mar 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -1502,7 +1502,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 19, 2020",
+            "label": "Mar 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -1647,7 +1647,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 20, 2020",
+            "label": "Mar 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -1802,7 +1802,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 21, 2020",
+            "label": "Mar 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -1962,7 +1962,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 22, 2020",
+            "label": "Mar 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -2122,7 +2122,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 23, 2020",
+            "label": "Mar 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -2282,7 +2282,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 24, 2020",
+            "label": "Mar 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -2462,7 +2462,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 25, 2020",
+            "label": "Mar 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -2642,7 +2642,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 26, 2020",
+            "label": "Mar 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -2822,7 +2822,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 27, 2020",
+            "label": "Mar 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -3034,7 +3034,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 28, 2020",
+            "label": "Mar 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -3246,7 +3246,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 29, 2020",
+            "label": "Mar 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -3463,7 +3463,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 30, 2020",
+            "label": "Mar 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -3725,7 +3725,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Mar 31, 2020",
+            "label": "Mar 31",
             "data": [
                 {
                     "category": "Total Cases",
@@ -4007,7 +4007,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 1, 2020",
+            "label": "Apr 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -4294,7 +4294,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 2, 2020",
+            "label": "Apr 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -4571,7 +4571,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 3, 2020",
+            "label": "Apr 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -4848,7 +4848,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 4, 2020",
+            "label": "Apr 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -5130,7 +5130,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 5, 2020",
+            "label": "Apr 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -5412,7 +5412,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 6, 2020",
+            "label": "Apr 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -5694,7 +5694,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 7, 2020",
+            "label": "Apr 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -5976,7 +5976,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 8, 2020",
+            "label": "Apr 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -6278,7 +6278,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 9, 2020",
+            "label": "Apr 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -6585,7 +6585,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 10, 2020",
+            "label": "Apr 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -6892,7 +6892,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 11, 2020",
+            "label": "Apr 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -7199,7 +7199,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 12, 2020",
+            "label": "Apr 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -7511,7 +7511,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 13, 2020",
+            "label": "Apr 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -7823,7 +7823,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 14, 2020",
+            "label": "Apr 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -8140,7 +8140,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 15, 2020",
+            "label": "Apr 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -8462,7 +8462,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 16, 2020",
+            "label": "Apr 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -8784,7 +8784,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 17, 2020",
+            "label": "Apr 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -9106,7 +9106,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 18, 2020",
+            "label": "Apr 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -9428,7 +9428,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 19, 2020",
+            "label": "Apr 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -9750,7 +9750,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 20, 2020",
+            "label": "Apr 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -10072,7 +10072,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 21, 2020",
+            "label": "Apr 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -10394,7 +10394,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 22, 2020",
+            "label": "Apr 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -10716,7 +10716,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 23, 2020",
+            "label": "Apr 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -11038,7 +11038,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 24, 2020",
+            "label": "Apr 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -11360,7 +11360,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 25, 2020",
+            "label": "Apr 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -11682,7 +11682,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 26, 2020",
+            "label": "Apr 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -12009,7 +12009,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 27, 2020",
+            "label": "Apr 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -12336,7 +12336,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 28, 2020",
+            "label": "Apr 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -12663,7 +12663,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 29, 2020",
+            "label": "Apr 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -12990,7 +12990,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Apr 30, 2020",
+            "label": "Apr 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -13317,7 +13317,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 1, 2020",
+            "label": "May 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -13644,7 +13644,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 2, 2020",
+            "label": "May 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -13971,7 +13971,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 3, 2020",
+            "label": "May 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -14298,7 +14298,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 4, 2020",
+            "label": "May 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -14625,7 +14625,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 5, 2020",
+            "label": "May 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -14952,7 +14952,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 6, 2020",
+            "label": "May 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -15279,7 +15279,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 7, 2020",
+            "label": "May 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -15606,7 +15606,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 8, 2020",
+            "label": "May 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -15933,7 +15933,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 9, 2020",
+            "label": "May 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -16260,7 +16260,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 10, 2020",
+            "label": "May 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -16587,7 +16587,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 11, 2020",
+            "label": "May 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -16914,7 +16914,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 12, 2020",
+            "label": "May 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -17241,7 +17241,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 13, 2020",
+            "label": "May 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -17568,7 +17568,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 14, 2020",
+            "label": "May 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -17895,7 +17895,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 15, 2020",
+            "label": "May 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -18222,7 +18222,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 16, 2020",
+            "label": "May 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -18549,7 +18549,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 17, 2020",
+            "label": "May 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -18876,7 +18876,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 18, 2020",
+            "label": "May 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -19203,7 +19203,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 19, 2020",
+            "label": "May 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -19530,7 +19530,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 20, 2020",
+            "label": "May 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -19857,7 +19857,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 21, 2020",
+            "label": "May 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -20184,7 +20184,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 22, 2020",
+            "label": "May 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -20511,7 +20511,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 23, 2020",
+            "label": "May 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -20838,7 +20838,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 24, 2020",
+            "label": "May 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -21165,7 +21165,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 25, 2020",
+            "label": "May 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -21492,7 +21492,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 26, 2020",
+            "label": "May 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -21819,7 +21819,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 27, 2020",
+            "label": "May 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -22146,7 +22146,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 28, 2020",
+            "label": "May 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -22473,7 +22473,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 29, 2020",
+            "label": "May 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -22800,7 +22800,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 30, 2020",
+            "label": "May 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -23127,7 +23127,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "May 31, 2020",
+            "label": "May 31",
             "data": [
                 {
                     "category": "Total Cases",
@@ -23454,7 +23454,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 1, 2020",
+            "label": "Jun 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -23781,7 +23781,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 2, 2020",
+            "label": "Jun 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -24108,7 +24108,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 3, 2020",
+            "label": "Jun 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -24435,7 +24435,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 4, 2020",
+            "label": "Jun 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -24762,7 +24762,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 5, 2020",
+            "label": "Jun 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -25089,7 +25089,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 6, 2020",
+            "label": "Jun 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -25416,7 +25416,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 7, 2020",
+            "label": "Jun 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -25743,7 +25743,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 8, 2020",
+            "label": "Jun 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -26070,7 +26070,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 9, 2020",
+            "label": "Jun 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -26397,7 +26397,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 10, 2020",
+            "label": "Jun 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -26724,7 +26724,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 11, 2020",
+            "label": "Jun 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -27051,7 +27051,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 12, 2020",
+            "label": "Jun 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -27378,7 +27378,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 13, 2020",
+            "label": "Jun 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -27705,7 +27705,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 14, 2020",
+            "label": "Jun 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -28032,7 +28032,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 15, 2020",
+            "label": "Jun 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -28359,7 +28359,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 16, 2020",
+            "label": "Jun 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -28686,7 +28686,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 17, 2020",
+            "label": "Jun 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -29018,7 +29018,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 18, 2020",
+            "label": "Jun 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -29350,7 +29350,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 19, 2020",
+            "label": "Jun 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -29682,7 +29682,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 20, 2020",
+            "label": "Jun 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -30014,7 +30014,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 21, 2020",
+            "label": "Jun 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -30346,7 +30346,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 22, 2020",
+            "label": "Jun 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -30678,7 +30678,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 23, 2020",
+            "label": "Jun 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -31010,7 +31010,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 24, 2020",
+            "label": "Jun 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -31342,7 +31342,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 25, 2020",
+            "label": "Jun 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -31674,7 +31674,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 26, 2020",
+            "label": "Jun 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -32006,7 +32006,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 27, 2020",
+            "label": "Jun 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -32409,7 +32409,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 28, 2020",
+            "label": "Jun 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -32812,7 +32812,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 29, 2020",
+            "label": "Jun 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -33215,7 +33215,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jun 30, 2020",
+            "label": "Jun 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -33618,7 +33618,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 1, 2020",
+            "label": "Jul 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -34021,7 +34021,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 2, 2020",
+            "label": "Jul 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -34424,7 +34424,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 3, 2020",
+            "label": "Jul 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -34827,7 +34827,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 4, 2020",
+            "label": "Jul 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -35230,7 +35230,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 5, 2020",
+            "label": "Jul 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -35633,7 +35633,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 6, 2020",
+            "label": "Jul 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -36036,7 +36036,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 7, 2020",
+            "label": "Jul 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -36439,7 +36439,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 8, 2020",
+            "label": "Jul 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -36807,7 +36807,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 9, 2020",
+            "label": "Jul 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -37175,7 +37175,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 10, 2020",
+            "label": "Jul 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -37543,7 +37543,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 11, 2020",
+            "label": "Jul 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -37911,7 +37911,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 12, 2020",
+            "label": "Jul 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -38279,7 +38279,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 13, 2020",
+            "label": "Jul 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -38647,7 +38647,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 14, 2020",
+            "label": "Jul 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -39015,7 +39015,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 15, 2020",
+            "label": "Jul 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -39383,7 +39383,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 16, 2020",
+            "label": "Jul 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -39751,7 +39751,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 17, 2020",
+            "label": "Jul 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -40119,7 +40119,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 18, 2020",
+            "label": "Jul 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -40487,7 +40487,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 19, 2020",
+            "label": "Jul 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -40855,7 +40855,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 20, 2020",
+            "label": "Jul 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -41223,7 +41223,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 21, 2020",
+            "label": "Jul 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -41591,7 +41591,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 22, 2020",
+            "label": "Jul 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -41959,7 +41959,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 23, 2020",
+            "label": "Jul 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -42327,7 +42327,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 24, 2020",
+            "label": "Jul 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -42695,7 +42695,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 25, 2020",
+            "label": "Jul 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -43063,7 +43063,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 26, 2020",
+            "label": "Jul 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -43431,7 +43431,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 27, 2020",
+            "label": "Jul 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -43799,7 +43799,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 28, 2020",
+            "label": "Jul 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -44167,7 +44167,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 29, 2020",
+            "label": "Jul 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -44535,7 +44535,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 30, 2020",
+            "label": "Jul 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -44903,7 +44903,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jul 31, 2020",
+            "label": "Jul 31",
             "data": [
                 {
                     "category": "Total Cases",
@@ -45271,7 +45271,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 1, 2020",
+            "label": "Aug 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -45639,7 +45639,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 2, 2020",
+            "label": "Aug 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -46007,7 +46007,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 3, 2020",
+            "label": "Aug 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -46375,7 +46375,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 4, 2020",
+            "label": "Aug 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -46743,7 +46743,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 5, 2020",
+            "label": "Aug 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -47111,7 +47111,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 6, 2020",
+            "label": "Aug 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -47479,7 +47479,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 7, 2020",
+            "label": "Aug 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -47847,7 +47847,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 8, 2020",
+            "label": "Aug 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -48215,7 +48215,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 9, 2020",
+            "label": "Aug 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -48583,7 +48583,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 10, 2020",
+            "label": "Aug 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -48951,7 +48951,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 11, 2020",
+            "label": "Aug 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -49319,7 +49319,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 12, 2020",
+            "label": "Aug 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -49687,7 +49687,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 13, 2020",
+            "label": "Aug 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -50055,7 +50055,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 14, 2020",
+            "label": "Aug 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -50423,7 +50423,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 15, 2020",
+            "label": "Aug 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -50791,7 +50791,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 16, 2020",
+            "label": "Aug 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -51159,7 +51159,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 17, 2020",
+            "label": "Aug 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -51527,7 +51527,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 18, 2020",
+            "label": "Aug 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -51895,7 +51895,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 19, 2020",
+            "label": "Aug 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -52263,7 +52263,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 20, 2020",
+            "label": "Aug 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -52631,7 +52631,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 21, 2020",
+            "label": "Aug 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -52999,7 +52999,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 22, 2020",
+            "label": "Aug 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -53367,7 +53367,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 23, 2020",
+            "label": "Aug 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -53735,7 +53735,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 24, 2020",
+            "label": "Aug 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -54103,7 +54103,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 25, 2020",
+            "label": "Aug 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -54471,7 +54471,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 26, 2020",
+            "label": "Aug 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -54839,7 +54839,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 27, 2020",
+            "label": "Aug 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -55207,7 +55207,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 28, 2020",
+            "label": "Aug 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -55575,7 +55575,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 29, 2020",
+            "label": "Aug 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -55943,7 +55943,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 30, 2020",
+            "label": "Aug 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -56311,7 +56311,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Aug 31, 2020",
+            "label": "Aug 31",
             "data": [
                 {
                     "category": "Total Cases",
@@ -56679,7 +56679,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 1, 2020",
+            "label": "Sep 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -57047,7 +57047,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 2, 2020",
+            "label": "Sep 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -57415,7 +57415,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 3, 2020",
+            "label": "Sep 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -57783,7 +57783,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 4, 2020",
+            "label": "Sep 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -58151,7 +58151,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 5, 2020",
+            "label": "Sep 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -58519,7 +58519,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 6, 2020",
+            "label": "Sep 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -58887,7 +58887,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 7, 2020",
+            "label": "Sep 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -59255,7 +59255,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 8, 2020",
+            "label": "Sep 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -59623,7 +59623,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 9, 2020",
+            "label": "Sep 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -59991,7 +59991,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 10, 2020",
+            "label": "Sep 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -60359,7 +60359,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 11, 2020",
+            "label": "Sep 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -60727,7 +60727,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 12, 2020",
+            "label": "Sep 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -61095,7 +61095,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 13, 2020",
+            "label": "Sep 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -61463,7 +61463,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 14, 2020",
+            "label": "Sep 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -61831,7 +61831,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 15, 2020",
+            "label": "Sep 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -62199,7 +62199,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 16, 2020",
+            "label": "Sep 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -62567,7 +62567,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 17, 2020",
+            "label": "Sep 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -62935,7 +62935,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 18, 2020",
+            "label": "Sep 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -63303,7 +63303,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 19, 2020",
+            "label": "Sep 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -63671,7 +63671,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 20, 2020",
+            "label": "Sep 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -64039,7 +64039,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 21, 2020",
+            "label": "Sep 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -64407,7 +64407,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 22, 2020",
+            "label": "Sep 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -64775,7 +64775,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 23, 2020",
+            "label": "Sep 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -65143,7 +65143,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 24, 2020",
+            "label": "Sep 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -65511,7 +65511,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 25, 2020",
+            "label": "Sep 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -65879,7 +65879,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 26, 2020",
+            "label": "Sep 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -66247,7 +66247,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 27, 2020",
+            "label": "Sep 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -66615,7 +66615,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 28, 2020",
+            "label": "Sep 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -66983,7 +66983,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 29, 2020",
+            "label": "Sep 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -67351,7 +67351,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Sep 30, 2020",
+            "label": "Sep 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -67719,7 +67719,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 1, 2020",
+            "label": "Oct 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -68087,7 +68087,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 2, 2020",
+            "label": "Oct 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -68455,7 +68455,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 3, 2020",
+            "label": "Oct 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -68823,7 +68823,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 4, 2020",
+            "label": "Oct 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -69191,7 +69191,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 5, 2020",
+            "label": "Oct 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -69559,7 +69559,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 6, 2020",
+            "label": "Oct 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -69927,7 +69927,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 7, 2020",
+            "label": "Oct 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -70295,7 +70295,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 8, 2020",
+            "label": "Oct 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -70663,7 +70663,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 9, 2020",
+            "label": "Oct 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -71031,7 +71031,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 10, 2020",
+            "label": "Oct 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -71399,7 +71399,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 11, 2020",
+            "label": "Oct 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -71767,7 +71767,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 12, 2020",
+            "label": "Oct 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -72135,7 +72135,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 13, 2020",
+            "label": "Oct 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -72503,7 +72503,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 14, 2020",
+            "label": "Oct 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -72871,7 +72871,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 15, 2020",
+            "label": "Oct 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -73239,7 +73239,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 16, 2020",
+            "label": "Oct 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -73607,7 +73607,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 17, 2020",
+            "label": "Oct 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -73975,7 +73975,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 18, 2020",
+            "label": "Oct 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -74343,7 +74343,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 19, 2020",
+            "label": "Oct 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -74711,7 +74711,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 20, 2020",
+            "label": "Oct 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -75079,7 +75079,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 21, 2020",
+            "label": "Oct 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -75447,7 +75447,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 22, 2020",
+            "label": "Oct 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -75815,7 +75815,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 23, 2020",
+            "label": "Oct 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -76183,7 +76183,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 24, 2020",
+            "label": "Oct 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -76551,7 +76551,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 25, 2020",
+            "label": "Oct 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -76919,7 +76919,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 26, 2020",
+            "label": "Oct 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -77287,7 +77287,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 27, 2020",
+            "label": "Oct 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -77655,7 +77655,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 28, 2020",
+            "label": "Oct 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -78023,7 +78023,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 29, 2020",
+            "label": "Oct 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -78391,7 +78391,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 30, 2020",
+            "label": "Oct 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -78759,7 +78759,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Oct 31, 2020",
+            "label": "Oct 31",
             "data": [
                 {
                     "category": "Total Cases",
@@ -79127,7 +79127,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 1, 2020",
+            "label": "Nov 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -79495,7 +79495,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 2, 2020",
+            "label": "Nov 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -79863,7 +79863,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 3, 2020",
+            "label": "Nov 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -80231,7 +80231,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 4, 2020",
+            "label": "Nov 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -80599,7 +80599,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 5, 2020",
+            "label": "Nov 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -80967,7 +80967,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 6, 2020",
+            "label": "Nov 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -81335,7 +81335,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 7, 2020",
+            "label": "Nov 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -81703,7 +81703,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 8, 2020",
+            "label": "Nov 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -82071,7 +82071,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 9, 2020",
+            "label": "Nov 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -82439,7 +82439,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 10, 2020",
+            "label": "Nov 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -82807,7 +82807,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 11, 2020",
+            "label": "Nov 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -83175,7 +83175,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 12, 2020",
+            "label": "Nov 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -83543,7 +83543,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 13, 2020",
+            "label": "Nov 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -83911,7 +83911,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 14, 2020",
+            "label": "Nov 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -84279,7 +84279,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 15, 2020",
+            "label": "Nov 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -84647,7 +84647,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 16, 2020",
+            "label": "Nov 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -85015,7 +85015,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 17, 2020",
+            "label": "Nov 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -85383,7 +85383,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 18, 2020",
+            "label": "Nov 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -85751,7 +85751,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 19, 2020",
+            "label": "Nov 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -86119,7 +86119,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 20, 2020",
+            "label": "Nov 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -86487,7 +86487,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 21, 2020",
+            "label": "Nov 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -86855,7 +86855,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 22, 2020",
+            "label": "Nov 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -87223,7 +87223,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 23, 2020",
+            "label": "Nov 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -87591,7 +87591,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 24, 2020",
+            "label": "Nov 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -87959,7 +87959,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 25, 2020",
+            "label": "Nov 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -88327,7 +88327,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 26, 2020",
+            "label": "Nov 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -88695,7 +88695,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 27, 2020",
+            "label": "Nov 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -89063,7 +89063,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 28, 2020",
+            "label": "Nov 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -89431,7 +89431,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 29, 2020",
+            "label": "Nov 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -89799,7 +89799,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Nov 30, 2020",
+            "label": "Nov 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -90167,7 +90167,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 1, 2020",
+            "label": "Dec 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -90535,7 +90535,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 2, 2020",
+            "label": "Dec 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -90903,7 +90903,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 3, 2020",
+            "label": "Dec 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -91271,7 +91271,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 4, 2020",
+            "label": "Dec 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -91639,7 +91639,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 5, 2020",
+            "label": "Dec 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -92007,7 +92007,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 6, 2020",
+            "label": "Dec 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -92375,7 +92375,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 7, 2020",
+            "label": "Dec 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -92743,7 +92743,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 8, 2020",
+            "label": "Dec 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -93111,7 +93111,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 9, 2020",
+            "label": "Dec 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -93479,7 +93479,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 10, 2020",
+            "label": "Dec 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -93847,7 +93847,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 11, 2020",
+            "label": "Dec 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -94215,7 +94215,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 12, 2020",
+            "label": "Dec 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -94583,7 +94583,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 13, 2020",
+            "label": "Dec 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -94951,7 +94951,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 14, 2020",
+            "label": "Dec 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -95319,7 +95319,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 15, 2020",
+            "label": "Dec 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -95687,7 +95687,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 16, 2020",
+            "label": "Dec 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -96055,7 +96055,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 17, 2020",
+            "label": "Dec 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -96423,7 +96423,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 18, 2020",
+            "label": "Dec 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -96791,7 +96791,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 19, 2020",
+            "label": "Dec 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -97159,7 +97159,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 20, 2020",
+            "label": "Dec 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -97527,7 +97527,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 21, 2020",
+            "label": "Dec 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -97895,7 +97895,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 22, 2020",
+            "label": "Dec 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -98263,7 +98263,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 23, 2020",
+            "label": "Dec 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -98631,7 +98631,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 24, 2020",
+            "label": "Dec 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -98999,7 +98999,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 25, 2020",
+            "label": "Dec 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -99367,7 +99367,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 26, 2020",
+            "label": "Dec 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -99735,7 +99735,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 27, 2020",
+            "label": "Dec 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -100103,7 +100103,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 28, 2020",
+            "label": "Dec 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -100471,7 +100471,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 29, 2020",
+            "label": "Dec 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -100839,7 +100839,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 30, 2020",
+            "label": "Dec 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -101207,7 +101207,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Dec 31, 2020",
+            "label": "Dec 31",
             "data": [
                 {
                     "category": "Total Cases",
@@ -101575,7 +101575,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 1, 2021",
+            "label": "Jan 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -101943,7 +101943,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 2, 2021",
+            "label": "Jan 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -102311,7 +102311,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 3, 2021",
+            "label": "Jan 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -102679,7 +102679,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 4, 2021",
+            "label": "Jan 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -103047,7 +103047,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 5, 2021",
+            "label": "Jan 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -103415,7 +103415,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 6, 2021",
+            "label": "Jan 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -103783,7 +103783,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 7, 2021",
+            "label": "Jan 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -104151,7 +104151,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 8, 2021",
+            "label": "Jan 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -104519,7 +104519,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 9, 2021",
+            "label": "Jan 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -104887,7 +104887,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 10, 2021",
+            "label": "Jan 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -105255,7 +105255,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 11, 2021",
+            "label": "Jan 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -105623,7 +105623,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 12, 2021",
+            "label": "Jan 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -105991,7 +105991,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 13, 2021",
+            "label": "Jan 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -106359,7 +106359,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 14, 2021",
+            "label": "Jan 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -106727,7 +106727,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 15, 2021",
+            "label": "Jan 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -107095,7 +107095,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 16, 2021",
+            "label": "Jan 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -107463,7 +107463,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 17, 2021",
+            "label": "Jan 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -107831,7 +107831,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 18, 2021",
+            "label": "Jan 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -108199,7 +108199,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 19, 2021",
+            "label": "Jan 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -108567,7 +108567,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 20, 2021",
+            "label": "Jan 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -108935,7 +108935,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 21, 2021",
+            "label": "Jan 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -109303,7 +109303,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 22, 2021",
+            "label": "Jan 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -109671,7 +109671,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 23, 2021",
+            "label": "Jan 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -110039,7 +110039,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 24, 2021",
+            "label": "Jan 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -110407,7 +110407,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 25, 2021",
+            "label": "Jan 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -110775,7 +110775,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 26, 2021",
+            "label": "Jan 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -111143,7 +111143,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 27, 2021",
+            "label": "Jan 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -111511,7 +111511,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 28, 2021",
+            "label": "Jan 28",
             "data": [
                 {
                     "category": "Total Cases",
@@ -111879,7 +111879,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 29, 2021",
+            "label": "Jan 29",
             "data": [
                 {
                     "category": "Total Cases",
@@ -112247,7 +112247,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 30, 2021",
+            "label": "Jan 30",
             "data": [
                 {
                     "category": "Total Cases",
@@ -112615,7 +112615,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Jan 31, 2021",
+            "label": "Jan 31",
             "data": [
                 {
                     "category": "Total Cases",
@@ -112983,7 +112983,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 1, 2021",
+            "label": "Feb 1",
             "data": [
                 {
                     "category": "Total Cases",
@@ -113351,7 +113351,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 2, 2021",
+            "label": "Feb 2",
             "data": [
                 {
                     "category": "Total Cases",
@@ -113719,7 +113719,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 3, 2021",
+            "label": "Feb 3",
             "data": [
                 {
                     "category": "Total Cases",
@@ -114087,7 +114087,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 4, 2021",
+            "label": "Feb 4",
             "data": [
                 {
                     "category": "Total Cases",
@@ -114455,7 +114455,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 5, 2021",
+            "label": "Feb 5",
             "data": [
                 {
                     "category": "Total Cases",
@@ -114823,7 +114823,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 6, 2021",
+            "label": "Feb 6",
             "data": [
                 {
                     "category": "Total Cases",
@@ -115191,7 +115191,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 7, 2021",
+            "label": "Feb 7",
             "data": [
                 {
                     "category": "Total Cases",
@@ -115559,7 +115559,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 8, 2021",
+            "label": "Feb 8",
             "data": [
                 {
                     "category": "Total Cases",
@@ -115927,7 +115927,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 9, 2021",
+            "label": "Feb 9",
             "data": [
                 {
                     "category": "Total Cases",
@@ -116295,7 +116295,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 10, 2021",
+            "label": "Feb 10",
             "data": [
                 {
                     "category": "Total Cases",
@@ -116663,7 +116663,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 11, 2021",
+            "label": "Feb 11",
             "data": [
                 {
                     "category": "Total Cases",
@@ -117031,7 +117031,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 12, 2021",
+            "label": "Feb 12",
             "data": [
                 {
                     "category": "Total Cases",
@@ -117399,7 +117399,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 13, 2021",
+            "label": "Feb 13",
             "data": [
                 {
                     "category": "Total Cases",
@@ -117767,7 +117767,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 14, 2021",
+            "label": "Feb 14",
             "data": [
                 {
                     "category": "Total Cases",
@@ -118135,7 +118135,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 15, 2021",
+            "label": "Feb 15",
             "data": [
                 {
                     "category": "Total Cases",
@@ -118503,7 +118503,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 16, 2021",
+            "label": "Feb 16",
             "data": [
                 {
                     "category": "Total Cases",
@@ -118871,7 +118871,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 17, 2021",
+            "label": "Feb 17",
             "data": [
                 {
                     "category": "Total Cases",
@@ -119239,7 +119239,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 18, 2021",
+            "label": "Feb 18",
             "data": [
                 {
                     "category": "Total Cases",
@@ -119607,7 +119607,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 19, 2021",
+            "label": "Feb 19",
             "data": [
                 {
                     "category": "Total Cases",
@@ -119975,7 +119975,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 20, 2021",
+            "label": "Feb 20",
             "data": [
                 {
                     "category": "Total Cases",
@@ -120343,7 +120343,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 21, 2021",
+            "label": "Feb 21",
             "data": [
                 {
                     "category": "Total Cases",
@@ -120711,7 +120711,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 22, 2021",
+            "label": "Feb 22",
             "data": [
                 {
                     "category": "Total Cases",
@@ -121079,7 +121079,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 23, 2021",
+            "label": "Feb 23",
             "data": [
                 {
                     "category": "Total Cases",
@@ -121447,7 +121447,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 24, 2021",
+            "label": "Feb 24",
             "data": [
                 {
                     "category": "Total Cases",
@@ -121815,7 +121815,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 25, 2021",
+            "label": "Feb 25",
             "data": [
                 {
                     "category": "Total Cases",
@@ -122183,7 +122183,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 26, 2021",
+            "label": "Feb 26",
             "data": [
                 {
                     "category": "Total Cases",
@@ -122551,7 +122551,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 27, 2021",
+            "label": "Feb 27",
             "data": [
                 {
                     "category": "Total Cases",
@@ -122919,7 +122919,7 @@ const cvoc = {
             ]
         },
         {
-            "label": "Feb 28, 2021",
+            "label": "Feb 28",
             "data": [
                 {
                     "category": "Total Cases",
