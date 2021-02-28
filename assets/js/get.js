@@ -12,7 +12,7 @@ const hospUrl = "https://data.ca.gov/api/3/action/datastore_search?resource_id=4
 // create todays date string
 const today = new Date(); 
 const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
-const dateString = months[today.getMonth()] + ' ' + today.getDate();
+const dateString = months[today.getMonth()] + ' ' + today.getDate() + ', ' + today.getFullYear();
 
 
 // get the existing covid dataset on this app
