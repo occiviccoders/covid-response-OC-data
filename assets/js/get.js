@@ -45,7 +45,7 @@ const writeData = async () => {
     const caseData = caseResult.data.features[0].attributes;
 
     const deathResult = await axios.get(deathUrl);
-    const deathData = deathResult.data.features[0].attributes;
+//    const deathData = deathResult.data.features[0].attributes;
 
     // Parse data
     const jsonData = [
@@ -57,7 +57,7 @@ const writeData = async () => {
         {
             "category": "Total Cases",
             "type": "Deaths",
-            "count": deathData.total_dth,
+            "count": 0,//deathData.total_dth,
         },
         {
             "category": "Currently",
@@ -77,7 +77,7 @@ const writeData = async () => {
         {
             "category": "Male",
             "type": "Deaths",
-            "count": deathData.dth_male,
+            "count": 0,//.dth_male,
         },
         {
             "category": "Female",
@@ -87,7 +87,7 @@ const writeData = async () => {
         {
             "category": "Female",
             "type": "Deaths",
-            "count": deathData.dth_female,
+            "count": 0,//.dth_female,
         },
         {
             "category": "Unknown",
@@ -97,7 +97,7 @@ const writeData = async () => {
         {
             "category": "Unknown",
             "type": "Deaths",
-            "count": deathData.dth_unk_sex,
+            "count": 0,//.dth_unk_sex,
         },
         {
             "category": "Other",
@@ -107,7 +107,7 @@ const writeData = async () => {
         {
             "category": "Other",
             "type": "Deaths",
-            "count": deathData.dth_oth_sex,
+            "count": 0,//.dth_oth_sex,
         },
         {
             "category": "<18",
@@ -117,7 +117,7 @@ const writeData = async () => {
         {
             "category": "<18",
             "type": "Deaths",
-            "count": deathData.dth_0_17,
+            "count": 0,//.dth_0_17,
         },
         {
             "category": "18 - 24",
@@ -127,7 +127,7 @@ const writeData = async () => {
         {
             "category": "18 - 24",
             "type": "Deaths",
-            "count": deathData.dth_18_24,
+            "count": 0,//.dth_18_24,
         },
         {
             "category": "25 - 34",
@@ -137,7 +137,7 @@ const writeData = async () => {
         {
             "category": "25 - 34",
             "type": "Deaths",
-            "count": deathData.dth_25_34,
+            "count": 0,//.dth_25_34,
         },
         {
             "category": "35 - 44",
@@ -147,7 +147,7 @@ const writeData = async () => {
         {
             "category": "35 - 44",
             "type": "Deaths",
-            "count": deathData.dth_35_44,
+            "count": 0,//.dth_35_44,
         },
         {
             "category": "45 - 54",
@@ -157,7 +157,7 @@ const writeData = async () => {
         {
             "category": "45 - 54",
             "type": "Deaths",
-            "count": deathData.dth_45_54,
+            "count": 0,//.dth_45_54,
         },
         {
             "category": "55 - 64",
@@ -167,7 +167,7 @@ const writeData = async () => {
         {
             "category": "55 - 64",
             "type": "Deaths",
-            "count": deathData.dth_55_64,
+            "count": 0,//.dth_55_64,
         },
         {
             "category": "65 - 74",
@@ -177,7 +177,7 @@ const writeData = async () => {
         {
             "category": "65 - 74",
             "type": "Deaths",
-            "count": deathData.dth_65_74,
+            "count": 0,//.dth_65_74,
         },
         {
             "category": "75 - 84",
@@ -187,7 +187,7 @@ const writeData = async () => {
         {
             "category": "75 - 84",
             "type": "Deaths",
-            "count": deathData.dth_75_84,
+            "count": 0,//.dth_75_84,
         },
         {
             "category": "≥ 85",
@@ -197,7 +197,7 @@ const writeData = async () => {
         {
             "category": "≥ 85",
             "type": "Deaths",
-            "count": deathData.dth_85,
+            "count": 0,//.dth_85,
         }
     ];
 
@@ -250,7 +250,7 @@ const writeData = async () => {
         "city": "All of Orange County",
         "population": "3,222,498",
         "cases": numToString(caseData.total_cases),
-        "deaths": numToString(deathData.total_dth)
+        "deaths": 0//numToString(deathData.total_dth)
     })
 
     /** USE THIS WHEN CITY URL IS WORKING (START) **/
