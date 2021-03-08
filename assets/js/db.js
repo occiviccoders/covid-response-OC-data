@@ -125434,7 +125434,7 @@ const cvoc = {
                 {
                     "city": "San Clemente",
                     "population": "65,405",
-                    "cases": "2,897"
+                    "cases": "2,887"
                 },
                 {
                     "city": "San Juan Capistrano",
