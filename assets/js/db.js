@@ -125489,7 +125489,7 @@ const cvoc = {
                 {
                     "city": "All of Orange County",
                     "population": "3,222,498",
-                    "cases": "247,751",
+                    "cases": "247,641",
                     "deaths": 0
                 }
             ]
@@ -125505,7 +125505,7 @@ const cvoc = {
                 {
                     "category": "Total Cases",
                     "type": "Deaths",
-                    "count": 0
+                    "count": 4226
                 },
                 {
                     "category": "Currently",
