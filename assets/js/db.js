@@ -125284,27 +125284,27 @@ const cvoc = {
                 {
                     "city": "Aliso Viejo",
                     "population": "51,372",
-                    "cases": "2,202"
+                    "cases": "2,201"
                 },
                 {
                     "city": "Anaheim",
                     "population": "359,339",
-                    "cases": "41,052"
+                    "cases": "41,040"
                 },
                 {
                     "city": "Brea",
                     "population": "45,606",
-                    "cases": "2,684"
+                    "cases": "2,683"
                 },
                 {
                     "city": "Buena Park",
                     "population": "83,384",
-                    "cases": "7,605"
+                    "cases": "7,600"
                 },
                 {
                     "city": "Costa Mesa",
                     "population": "115,830",
-                    "cases": "8,718"
+                    "cases": "8,714"
                 },
                 {
                     "city": "Coto de Caza",
@@ -125314,42 +125314,42 @@ const cvoc = {
                 {
                     "city": "Cypress",
                     "population": "49,833",
-                    "cases": "2,863"
+                    "cases": "2,862"
                 },
                 {
                     "city": "Dana Point",
                     "population": "34,249",
-                    "cases": "1,454"
+                    "cases": "1,453"
                 },
                 {
                     "city": "Fountain Valley",
                     "population": "56,652",
-                    "cases": "3,408"
+                    "cases": "3,405"
                 },
                 {
                     "city": "Fullerton",
                     "population": "142,824",
-                    "cases": "11,096"
+                    "cases": "11,090"
                 },
                 {
                     "city": "Garden Grove",
                     "population": "175,155",
-                    "cases": "16,230"
+                    "cases": "16,220"
                 },
                 {
                     "city": "Huntington Beach",
                     "population": "203,761",
-                    "cases": "10,337"
+                    "cases": "10,329"
                 },
                 {
                     "city": "Irvine",
                     "population": "280,202",
-                    "cases": "10,209"
+                    "cases": "10,202"
                 },
                 {
                     "city": "La Habra",
                     "population": "63,542",
-                    "cases": "6,284"
+                    "cases": "6,282"
                 },
                 {
                     "city": "La Palma",
@@ -125369,52 +125369,52 @@ const cvoc = {
                 {
                     "city": "Laguna Hills",
                     "population": "31,572",
-                    "cases": "1,675"
+                    "cases": "1,674"
                 },
                 {
                     "city": "Laguna Niguel",
                     "population": "66,748",
-                    "cases": "2,449"
+                    "cases": "2,446"
                 },
                 {
                     "city": "Laguna Woods",
                     "population": "16,518",
-                    "cases": "402"
+                    "cases": "401"
                 },
                 {
                     "city": "Lake Forest",
                     "population": "86,346",
-                    "cases": "4,044"
+                    "cases": "4,042"
                 },
                 {
                     "city": "Los Alamitos",
                     "population": "11,721",
-                    "cases": "1,049"
+                    "cases": "1,048"
                 },
                 {
                     "city": "Midway City",
                     "population": "8,374",
-                    "cases": "787"
+                    "cases": "786"
                 },
                 {
                     "city": "Mission Viejo",
                     "population": "96,434",
-                    "cases": "4,336"
+                    "cases": "4,333"
                 },
                 {
                     "city": "Newport Beach",
                     "population": "87,180",
-                    "cases": "3,630"
+                    "cases": "3,627"
                 },
                 {
                     "city": "Orange",
                     "population": "141,691",
-                    "cases": "11,603"
+                    "cases": "11,595"
                 },
                 {
                     "city": "Placentia",
                     "population": "52,333",
-                    "cases": "4,167"
+                    "cases": "4,166"
                 },
                 {
                     "city": "Rancho Mission Viejo",
@@ -125424,7 +125424,7 @@ const cvoc = {
                 {
                     "city": "Rancho Santa Margarita",
                     "population": "48,960",
-                    "cases": "1,873"
+                    "cases": "1,870"
                 },
                 {
                     "city": "Rossmoor",
@@ -125434,17 +125434,17 @@ const cvoc = {
                 {
                     "city": "San Clemente",
                     "population": "65,405",
-                    "cases": "2,890"
+                    "cases": "2,897"
                 },
                 {
                     "city": "San Juan Capistrano",
                     "population": "36,821",
-                    "cases": "2,703"
+                    "cases": "2,702"
                 },
                 {
                     "city": "Santa Ana",
                     "population": "337,716",
-                    "cases": "44,163"
+                    "cases": "44,151"
                 },
                 {
                     "city": "Seal Beach",
@@ -125459,17 +125459,17 @@ const cvoc = {
                 {
                     "city": "Stanton",
                     "population": "39,307",
-                    "cases": "3,128"
+                    "cases": "3,127"
                 },
                 {
                     "city": "Trabuco Canyon",
                     "population": "Not Available",
-                    "cases": "916"
+                    "cases": "915"
                 },
                 {
                     "city": "Tustin",
                     "population": "81,369",
-                    "cases": "6,041"
+                    "cases": "6,038"
                 },
                 {
                     "city": "Villa Park",
@@ -125479,12 +125479,12 @@ const cvoc = {
                 {
                     "city": "Westminster",
                     "population": "92,610",
-                    "cases": "6,990"
+                    "cases": "6,984"
                 },
                 {
                     "city": "Yorba Linda",
                     "population": "68,706",
-                    "cases": "4,046"
+                    "cases": "4,044"
                 },
                 {
                     "city": "All of Orange County",
