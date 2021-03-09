@@ -125873,7 +125873,7 @@ const cvoc = {
                 {
                     "category": "Total Cases",
                     "type": "Deaths",
-                    "count": 0
+                    "count": 26
                 },
                 {
                     "category": "Currently",
