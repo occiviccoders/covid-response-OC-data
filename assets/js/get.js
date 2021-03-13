@@ -32,19 +32,19 @@ const writeData = async () => {
     dateQuery = dateQuery.toISOString().slice(0,-5);
 
     // Pull Hospital data
-    const hospResult = await axios.get(hospUrl);
+/*    const hospResult = await axios.get(hospUrl);
     const hospData = hospResult.data.result.records.find(function(county){
         return county.county === "Orange" && county.todays_date === dateQuery;
     });
     if (!hospData){
         console.log("err - hospital data")
     }
-    
+ */   
     // Get case data
     const caseResult = await axios.get(caseUrl);
     const caseData = caseResult.data.features[0].attributes;
 
-    const deathResult = await axios.get(deathUrl);
+//    const deathResult = await axios.get(deathUrl);
 //    const deathData = deathResult.data.features[0].attributes;
 
     // Parse data
@@ -62,12 +62,12 @@ const writeData = async () => {
         {
             "category": "Currently",
             "type": "Hospitalized",
-            "count": hospData.hospitalized_covid_confirmed_patients,
+            "count": 0,//hospData.hospitalized_covid_confirmed_patients,
         },
         {
             "category": "Currently",
             "type": "ICU",
-            "count": hospData.icu_covid_confirmed_patients,
+            "count": 0,//hospData.icu_covid_confirmed_patients,
         },
         {
             "category": "Male",
