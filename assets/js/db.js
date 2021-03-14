@@ -127713,17 +127713,17 @@ const cvoc = {
                 {
                     "category": "Total Cases",
                     "type": "Deaths",
-                    "count": 0
+                    "count": 4434
                 },
                 {
                     "category": "Currently",
                     "type": "Hospitalized",
-                    "count": 0
+                    "count": 237
                 },
                 {
                     "category": "Currently",
                     "type": "ICU",
-                    "count": 0
+                    "count": 71
                 },
                 {
                     "category": "Male",
